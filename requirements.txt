@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+newspaper3k
+google-api-python-client
+python-dotenv
+pydantic
