@@ -22,7 +22,7 @@ app = FastAPI(title="Fake News & Fact-Check API (with Gemini AI)")
 # ✅ Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8081"],
+    allow_origins=["http://localhost:8082"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
