@@ -1,0 +1,1 @@
+This is the engine room of AEGIS! Our robust backend, skillfully developed by Pratik, handles all the complex AI algorithms for deepfake and fake news detection, serving up results via a reliable API. 🧠✨
